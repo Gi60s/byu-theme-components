@@ -163,6 +163,9 @@
         @include headerButtonMobile();
       }
     }
+    .byu-header-search {
+      border-top: 1px solid #ccc;
+    }
   }
 }
 
