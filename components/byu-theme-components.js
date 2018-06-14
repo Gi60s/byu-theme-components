@@ -6,7 +6,8 @@
 /*
  * Header Bits
  */
-import './byu-header/byu-header.js';
+// import './byu-header/byu-header.js';
+import './byu-header/lit-byu-header.js';
 import './byu-menu/byu-menu.js';
 import './byu-search/byu-search.js';
 import './byu-user-info/byu-user-info.js';

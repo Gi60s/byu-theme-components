@@ -12,6 +12,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "@polymer/lit-element": "^0.5.1",
     "byu-web-component-utils": "^0.4.2",
     "deep-equal": "^1.0.1",
     "sass-loader": "^6.0.6"
